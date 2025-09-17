@@ -10,9 +10,9 @@ Compatible with: T2I, I2I, T2V, I2V.
 1. Pattern Library
 - Seamless repeating print designs
 - key: patt3rnl1brary
-![Sample patt3rnl1brary](https://thedial.infura-ipfs.io/ipfs/QmNdShwAyD38iv2pWRP2QHtFTS4rCSrJFbqmhZ6ArWTdYp)
+![Sample patt3rnl1brary](https://thedial.infura-ipfs.io/ipfs/QmYWiXfEgcY887s4UFopLXkkNHxXwN9YtnBQ2Fzit4sZFX)
 
 2. Coin Op
 - Coin Op streetwear fashion style
 - key: c01n0p
-![Sample c01n0p](https://thedial.infura-ipfs.io/ipfs/QmNdShwAyD38iv2pWRP2QHtFTS4rCSrJFbqmhZ6ArWTdYp)
+![Sample c01n0p](https://thedial.infura-ipfs.io/ipfs/QmUcmyccGG7mn1paSMbdvc2QTjjRTYTJ7RpQrF6KA4E1Sd)
