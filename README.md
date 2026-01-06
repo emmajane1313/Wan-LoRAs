@@ -21,3 +21,15 @@ Compatible with: T2I, I2I, T2V, I2V.
 - Mac Fhionghuin tartans
 - key: mack1nn0n
 ![Sample mack1nn0n](https://thedial.infura-ipfs.io/ipfs/QmSz3gHDBDAEd3AMveSSsYc27JzcfSNWbJuUpCcj53cGRr)
+
+
+4. Y2K
+- Y2K patrones
+- key: y2k
+![Sample y2k](https://thedial.infura-ipfs.io/ipfs/QmP148azc7Frmn3V3m7931KHniBrdQ5usoXnFLoHLkg6yz)
+
+
+5. Cakehouse
+- 1961 east/west Berlin, glowing sketch style
+- key: cak3h0us3
+![Sample cak3h0us3](https://thedial.infura-ipfs.io/ipfs/QmTNajUAfjf3wvhrgT44StmRwofM2aJuBDF7P2Hi3syKrU)
